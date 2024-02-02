@@ -1,0 +1,12 @@
+{
+  "name": "ex.3",
+  "version": "1.0.0",
+  "description": "exercise 3 creating a rep from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
